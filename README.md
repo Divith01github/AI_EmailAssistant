@@ -1,3 +1,1 @@
-"# AI_Email_Assitant" 
-"# AI_EmailAssistant" 
-"# Ai-assiant" 
+Developed the backend for an AI-powered Email Assistant, designed to automatically generate email replies using Google's Gemini language model. The system dynamically adapts its responses based on the user-selected tone—ranging from professional to casual—offering personalized communication tailored to context and intent. Built entirely with Spring Boot, the application features a scalable, modular architecture ensuring seamless integration with email services and efficient AI prompt handling. Responsibilities included designing RESTful APIs, implementing tone-specific response logic, and orchestrating secure interactions with the Gemini model.
